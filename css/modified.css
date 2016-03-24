@@ -1,0 +1,18 @@
+.form-group {
+    width: 70%;
+}
+
+#bb {
+    /*background-color: #00aaf1;*/
+    width: 300px;
+}
+
+#updbtn {
+    background-color: #00aced;
+    width: 40%;
+    color: #ffffff;
+}
+
+.btn_1{
+    color: #ffffff;
+}
